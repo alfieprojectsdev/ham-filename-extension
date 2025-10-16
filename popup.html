@@ -1,0 +1,21 @@
+<!-- ham-filename-extension/popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HAM Filename Generator</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>HAM Filename Generator</h2>
+    <textarea id="inputText" placeholder="Paste your request text here..."></textarea>
+    <button id="generateButton">Generate Filename(s)</button>
+    <div id="result" class="hidden">
+      <p>Generated filename:</p>
+      <div id="filename"></div>
+      <p class="copy-status" id="copyStatus"></p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
