@@ -90,9 +90,10 @@ Requested By Juan P Dela Cruz
 
 ---
 
-## 🧾 License
-
-MIT License © 2025 Alfie P.
+## License
+You may use and modify this code freely for non-commercial or internal projects.  
+Attribution appreciated but not required.  
+No warranty provided — use at your own risk.
 
 ---
 
